@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Strings in Spanish for multi-language function-->
+    <string name="app_name">QuizzesSQL</string>
+    <string name="resCorrecto">CORRECTO!!!</string>
+    <string name="resIncorrecto">FALLASTE!!!</string>
+    <string name="resFinal">Felicitaciones!\nHaz teminado la lección</string>
+    <string name="boton1">ENVIAR</string>
+    <string name="boton2Correcto">SIGUIENTE</string>
+    <string name="boton2Incorrecto">INTENTAR DE NUEVO</string>
+    <string name="boton2Final">INICIAR DE NUEVO</string>
+    <string name="aviso">Por favor seleccione una de las opciones de respuesta</string>
+</resources>

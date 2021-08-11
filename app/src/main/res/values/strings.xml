@@ -1,0 +1,12 @@
+<resources>
+    <!--English strings for multi-language function-->
+    <string name="app_name">QuizzesSQL</string>
+    <string name="resCorrecto">RIGHT!!!</string>
+    <string name="resIncorrecto">FAIL!!!</string>
+    <string name="resFinal">Congratulations!\nYou have finished the lesson</string>
+    <string name="boton1">SEND</string>
+    <string name="boton2Correcto">NEXT</string>
+    <string name="boton2Incorrecto">TRY AGAIN</string>
+    <string name="boton2Final">START AGAIN</string>
+    <string name="aviso">Please select one of the answer options</string>
+</resources>
